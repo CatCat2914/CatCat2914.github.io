@@ -1,9 +1,0 @@
-[
-  {
-    "name": "Coal Power",
-    "powerConsumption": -10.0,
-    "maxWorkers": 3,
-    "inputs": { "base.COAL_ORE": 1.0 },
-    "outputs": { }
-  }
-]

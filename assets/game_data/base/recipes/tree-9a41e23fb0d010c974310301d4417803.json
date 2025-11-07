@@ -1,9 +1,0 @@
-[
-  {
-    "name": "Produce Wood",
-    "powerConsumption": 0.0,
-    "maxWorkers": 0,
-    "inputs": { "base.WATER": 0.25 },
-    "outputs": { "base.WOOD": 0.5 }
-  }
-]

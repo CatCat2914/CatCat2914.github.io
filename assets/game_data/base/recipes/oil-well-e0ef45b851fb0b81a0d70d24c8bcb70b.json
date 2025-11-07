@@ -1,9 +1,0 @@
-[
-  {
-    "name": "Extract Oil",
-    "powerConsumption": 1.0,
-    "maxWorkers": 1,
-    "inputs": { "base.ROCK": 1.2},
-    "outputs": { "base.OIL": 0.2 }
-  }
-]
