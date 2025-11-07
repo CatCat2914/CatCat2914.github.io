@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Wood -> Planks",
+    "powerConsumption": 2.0,
+    "maxWorkers": 2,
+    "inputs": { "base.WOOD": 1.0 },
+    "outputs": { "base.PLANKS": 3.0 }
+  },
+  {
+    "name": "Smelt Iron",
+    "powerConsumption": 3.0,
+    "maxWorkers": 1,
+    "inputs": { "base.IRON_ORE": 1.2 },
+    "outputs": { "base.IRON_INGOT": 0.6 }
+  },
+  {
+    "name": "Forge Steel",
+    "powerConsumption": 5.0,
+    "maxWorkers": 1,
+    "inputs": { "base.IRON_INGOT": 1.0, "base.COAL_ORE":  0.5 },
+    "outputs": { "base.STEEL_INGOT": 1.0 }
+  }
+]

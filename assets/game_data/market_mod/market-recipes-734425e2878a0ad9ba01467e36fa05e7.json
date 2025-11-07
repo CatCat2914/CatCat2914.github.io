@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Sell Wood",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.WOOD": 1.0 },
+    "outputs": { "market_mod.COIN": 0.3 }
+  },
+  {
+    "name": "Sell Planks",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.PLANKS": 1.0 },
+    "outputs": { "market_mod.COIN": 0.25 }
+  },
+  {
+    "name": "Sell Water",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.WATER": 1.0 },
+    "outputs": { "market_mod.COIN": 0.1 }
+  },
+  {
+    "name": "Sell Oil",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.OIL": 1.0 },
+    "outputs": { "market_mod.COIN": 0.8 }
+  },
+  {
+    "name": "Sell Diesel",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.DIESEL": 1.0 },
+    "outputs": { "market_mod.COIN": 4 }
+  },
+  {
+    "name": "Sell Rock",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.ROCK": 1.0 },
+    "outputs": { "market_mod.COIN": 0.05 }
+  },
+  {
+    "name": "Sell Coal Ore",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.COAL_ORE": 1.0 },
+    "outputs": { "market_mod.COIN": 0.4 }
+  },
+  {
+    "name": "Sell Iron Ore",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.IRON_ORE": 1.0 },
+    "outputs": { "market_mod.COIN": 0.5 }
+  },
+  {
+    "name": "Sell Corn",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.CORN": 1.0 },
+    "outputs": { "market_mod.COIN": 0.2 }
+  },
+  {
+    "name": "Sell Iron Ingot",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.IRON_INGOT": 1.0 },
+    "outputs": { "market_mod.COIN": 1.2 }
+  },
+  {
+    "name": "Sell Steel Ingot",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "base.STEEL_INGOT": 1.0 },
+    "outputs": { "market_mod.COIN": 3 }
+  },
+
+
+
+
+
+  {
+    "name": "Buy Wood",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 0.45 },
+    "outputs": { "base.WOOD": 1.0 }
+  },
+  {
+    "name": "Buy Planks",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 0.4 },
+    "outputs": { "base.PLANKS": 1.0 }
+  },
+  {
+    "name": "Buy Water",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 0.15 },
+    "outputs": { "base.WATER": 1.0 }
+  },
+  {
+    "name": "Buy Oil",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 1.2 },
+    "outputs": { "base.OIL": 1.0 }
+  },
+  {
+    "name": "Buy Diesel",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 6.0 },
+    "outputs": { "base.DIESEL": 1.0 }
+  },
+  {
+    "name": "Buy Rock",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 0.1 },
+    "outputs": { "base.ROCK": 1.0 }
+  },
+  {
+    "name": "Buy Coal Ore",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 0.6 },
+    "outputs": { "base.COAL_ORE": 1.0 }
+  },
+  {
+    "name": "Buy Iron Ore",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 0.75 },
+    "outputs": { "base.IRON_ORE": 1.0 }
+  },
+  {
+    "name": "Buy Corn",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 0.3 },
+    "outputs": { "base.CORN": 1.0 }
+  },
+  {
+    "name": "Buy Iron Ingot",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 1.8 },
+    "outputs": { "base.IRON_INGOT": 1.0 }
+  },
+  {
+    "name": "Buy Steel Ingot",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 4.5 },
+    "outputs": { "base.STEEL_INGOT": 1.0 }
+  },
+
+
+
+
+  {
+    "name": "Manage Waste",
+    "powerConsumption": 0,
+    "maxWorkers": 1,
+    "inputs": { "market_mod.COIN": 5.0, "base.WASTE": 1.0 },
+    "outputs": { }
+  }
+]

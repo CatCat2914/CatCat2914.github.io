@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Produce Water (Automated)",
+    "powerConsumption": 1.0,
+    "maxWorkers": 0,
+    "inputs": {},
+    "outputs": { "base.WATER": 0.5 }
+  },
+  {
+    "name": "Produce Water (Worker)",
+    "powerConsumption": 0.5,
+    "maxWorkers": 1,
+    "inputs": {},
+    "outputs": { "base.WATER": 1.0 }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "6x Worker House (Corn)",
+    "powerConsumption": 1.0,
+    "maxWorkers": -6,
+    "inputs": { "base.WATER": 0.1, "base.CORN": 0.2 },
+    "outputs": {}
+  },
+  {
+    "name": "test house no +E",
+    "powerConsumption": 0,
+    "maxWorkers": -1000,
+    "inputs": {},
+    "outputs": {}
+  },
+  {
+    "name": "test house +E",
+    "powerConsumption": -100,
+    "maxWorkers": -1000,
+    "inputs": {},
+    "outputs": {}
+  }
+]
