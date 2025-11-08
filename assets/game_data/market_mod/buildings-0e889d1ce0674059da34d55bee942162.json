@@ -1,0 +1,10 @@
+[
+  {
+    "key": "MARKET",
+    "name": "Market",
+    "category": "Economy",
+    "texturePath": "market.png",
+    "color": "ADA444",
+    "recipeFile": "market-recipes.json"
+  }
+]

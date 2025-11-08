@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Produce Corn",
+    "powerConsumption": 1.0,
+    "maxWorkers": 1,
+    "inputs": { "base.WATER": 0.25 },
+    "outputs": { "base.CORN": 1.5 }
+  }
+]

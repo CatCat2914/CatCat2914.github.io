@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Mine Everything",
+    "powerConsumption": 1.0,
+    "maxWorkers": 1,
+    "inputs": {},
+    "outputs": { "base.ROCK": 1.2, "base.COAL_ORE": 0.3, "base.IRON_ORE": 0.15 }
+  },
+  {
+    "name": "Prioritize Rocks",
+    "powerConsumption": 1.0,
+    "maxWorkers": 1,
+    "inputs": {},
+    "outputs": { "base.ROCK": 2.4, "base.COAL_ORE": 0.1, "base.IRON_ORE": 0.05 }
+  },
+  {
+    "name": "Prioritize Iron",
+    "powerConsumption": 1.0,
+    "maxWorkers": 1,
+    "inputs": {},
+    "outputs": { "base.ROCK": 0.7, "base.COAL_ORE": 0.1, "base.IRON_ORE": 0.3 }
+  },
+  {
+    "name": "Prioritize Coal",
+    "powerConsumption": 1.0,
+    "maxWorkers": 1,
+    "inputs": {},
+    "outputs": { "base.ROCK": 0.7, "base.COAL_ORE": 0.6, "base.IRON_ORE": 0.05 }
+  }
+]

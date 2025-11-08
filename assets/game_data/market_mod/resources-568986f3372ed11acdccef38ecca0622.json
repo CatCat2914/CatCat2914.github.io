@@ -1,0 +1,8 @@
+[
+  {
+    "key": "COIN",
+    "name": "Coins",
+    "category": "Money",
+    "texturePath": "coin.png"
+  }
+]
