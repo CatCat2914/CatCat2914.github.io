@@ -1,9 +1,0 @@
-[
-  {
-    "name": "Oil -> Diesel",
-    "powerConsumption": 1.5,
-    "maxWorkers": 2,
-    "inputs": { "base.OIL": 1.0 },
-    "outputs": { "base.DIESEL": 0.4, "base.WASTE": 0.6}
-  }
-]
